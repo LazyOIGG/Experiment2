@@ -28,7 +28,7 @@
         </dependency>
         <dependency>
             <groupId>ynu.edu</groupId>
-            <artifactId>Entity</artifactId>
+            <artifactId>Public</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>

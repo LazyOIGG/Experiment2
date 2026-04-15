@@ -2,12 +2,10 @@ package ynu.edu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
-@EnableFeignClients
-public class Consumer11001Application {
+public class Provider15003Application {
     public static void main(String[] args) {
-        SpringApplication.run(Consumer11001Application.class, args);
+        SpringApplication.run(Provider15003Application.class, args);
     }
 }

@@ -5,12 +5,14 @@
     <file url="file://$PROJECT_DIR$/Consumer_11001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Consumer_11002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Consumer_11002/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Entity/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Entity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Provider_15001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Provider_15001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Provider_15002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Provider_15002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Provider_15003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Provider_15003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Service_Eureka_19000/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Service_Eureka_19000/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Service_Eureka_19001/src/main/java" charset="UTF-8" />

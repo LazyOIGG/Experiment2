@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>Provider_15002</artifactId>
+    <artifactId>Provider_15003</artifactId>
 
     <dependencies>
         <dependency>

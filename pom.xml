@@ -13,10 +13,11 @@
         <module>Consumer_11002</module>
         <module>Provider_15001</module>
         <module>Provider_15002</module>
-        <module>Entity</module>
+        <module>Public</module>
         <module>Service_Eureka_19000</module>
         <module>Service_Eureka_19001</module>
         <module>Service_Eureka_19002</module>
+        <module>Provider_15003</module>
     </modules>
 
     <properties>
