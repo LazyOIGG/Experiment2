@@ -15,7 +15,7 @@ public class UserController {
 
     static {
         // 初始化一些测试数据
-        userMap.put(1, new User(1, "小明", "123456"));
+        userMap.put(1, new User(1, "小明-from 15001", "123456"));
         userMap.put(2, new User(2, "小红", "654321"));
     }
 
