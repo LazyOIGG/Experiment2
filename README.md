@@ -4,15 +4,15 @@
 
 ## 技术栈
 
-| 组件                          | 版本                            |
-|-----------------------------|-------------------------------|
-| Java                        | 23                            |
-| Spring Boot                 | 4.0.3                         |
-| Spring Cloud                | 2025.1.1                      |
-| Spring Cloud Netflix Eureka | —                             |
-| Spring Cloud OpenFeign      | —                             |
-| Spring Cloud LoadBalancer   | —                             |
-| Lombok                      | 1.18.42                       |
+| 组件                          | 版本       |
+|-----------------------------|----------|
+| Java                        | 17       |
+| Spring Boot                 | 4.0.3    |
+| Spring Cloud                | 2025.1.1 |
+| Spring Cloud Netflix Eureka | —        |
+| Spring Cloud OpenFeign      | —        |
+| Spring Cloud LoadBalancer   | —        |
+| Lombok                      | 1.18.42  |
 
 ## 模块架构
 
